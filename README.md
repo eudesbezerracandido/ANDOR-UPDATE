@@ -10,6 +10,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a4c95dd11a1bfa602e5165c0416c656415664a8$nome=ANDOR 8</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07239a276037b7557dc2fe7bb146b02b855bc2ce$nome=ANDOR 9</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e3e417f51acbf6fc6a854b51ef2f91b9b4de4f5$nome=ANDOR 10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OLY5ECJ4GAT57XETM25VYGJKJHGWK6VH$nome=ANDOR 11</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Cinco anos antes dos acontecimentos de Rogue One, o espião rebelde Cassian Andor (Diego Luna) tem várias aventuras durante a Rebelião, passando por missões desafiadores para restaurar a esperança na galáxia contra o Império.</info>
